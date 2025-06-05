@@ -23,6 +23,11 @@ public class ViewTerminalAcces {
     public int getCurrentRclCount() {
         return base.__renderCycleLines;
     }
+    
+    public void increaseRclCount(Integer delta) {
+        delta = delta == null ? 1 : delta;
+        base.__renderCycleLines += delta;
+    }
 
     public void fill(int size) {
         for (int i = 0; i < size; i++) {
