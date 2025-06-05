@@ -38,7 +38,7 @@ public class v_select extends View {
         terminal.print("\n");
 
         if (lastSelectionWrong != null) {
-            terminal.print(Color.ANSI_RED + "Something went wrong with: " + lastSelectionWrong + "\"" + Color.ANSI_RESET + "\n");
+            terminal.print(Color.ANSI_RED + "Something went wrong with: \"" + lastSelectionWrong + "\"" + Color.ANSI_RESET + "\n");
             terminal.print("\n");
             lastSelectionWrong = null;
         } else {
