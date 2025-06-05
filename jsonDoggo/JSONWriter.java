@@ -1,4 +1,4 @@
-package jsonDogo;
+package jsonDoggo;
 
 import java.io.IOException;
 import java.util.Collection;

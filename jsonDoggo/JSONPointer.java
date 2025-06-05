@@ -1,4 +1,4 @@
-package jsonDogo;
+package jsonDoggo;
 
 import static java.lang.String.format;
 

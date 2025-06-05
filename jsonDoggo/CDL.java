@@ -1,4 +1,4 @@
-package jsonDogo;
+package jsonDoggo;
 
 /*
 Public Domain.

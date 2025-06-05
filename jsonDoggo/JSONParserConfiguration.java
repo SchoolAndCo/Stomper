@@ -1,4 +1,4 @@
-package jsonDogo;
+package jsonDoggo;
 
 /**
  * Configuration object for the JSON parser. The configuration is immutable.

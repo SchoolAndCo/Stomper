@@ -1,4 +1,4 @@
-package jsonDogo;
+package jsonDoggo;
 
 import java.io.*;
 import java.nio.charset.Charset;
